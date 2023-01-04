@@ -123,4 +123,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2023 Ilham Okta Alpriansyah.
+- Copyright © 2022 Ilham Okta Alpriansyah.
